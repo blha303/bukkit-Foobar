@@ -3,6 +3,8 @@ package biz.blha303.foobar;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.entity.Player;
 import org.bukkit.command.ConsoleCommandSender;
+import org.bukkit.command.CommandSender;
+import org.bukkit.command.Command;
 
 public class Foobar extends JavaPlugin {
 
