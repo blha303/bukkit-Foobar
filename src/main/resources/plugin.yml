@@ -1,3 +1,8 @@
 name: Foobar
 main: biz.blha303.foobar.Foobar
 version: 1
+commands:
+    foobar:
+        description: Foobar
+        usage: Foobarfoobarfoobarfoobarfoobar
+        aliases: [foo, bar, barfoo, foobarfoobar, partyrockisinthehousetonight]

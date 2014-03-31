@@ -16,6 +16,7 @@ public class Foobar extends JavaPlugin {
 		} else {
 			sender.sendMessage("[Foobar] foobar");
 		}
+		return True;
 	}
 
 }
